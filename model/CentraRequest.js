@@ -84,6 +84,12 @@ module.exports = class CentraRequest {
 
 		return this
 	}
+	
+	method (method) {
+		this.method = method
+		
+		return this
+	}
 
 	send () {
 		return new Promise((resolve, reject) => {
