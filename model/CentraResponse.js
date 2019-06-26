@@ -11,11 +11,11 @@ module.exports = class CentraResponse {
 		this.body = Buffer.concat([this.body, chunk])
 	}
 
-	async json () {
+	get json () {
 		return JSON.parse(this.body)
 	}
 
-	async text () {
+	get text () {
 		return this.body.toString()
 	}
 }
