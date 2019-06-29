@@ -21,10 +21,6 @@
   ],
   "author": "Ethan Davis (https://ethanent.me)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ethanent/centra/issues"
-  },
-  "homepage": "https://github.com/ethanent/centra",
   "devDependencies": {
     "retra": "^1.0.2",
     "whew": "^1.1.3"
