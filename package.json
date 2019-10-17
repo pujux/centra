@@ -1,6 +1,6 @@
 {
 	"name": "centra-aero",
-	"version": "2.3.0",
+	"version": "1.0.0",
 	"description": "Fork of centra to support only what aero needs.",
 	"main": "createRequest.js",
 	"repository": {
