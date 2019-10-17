@@ -1,28 +1,18 @@
 {
-  "name": "centra",
-  "version": "2.3.0",
-  "description": "The core lightweight HTTP client for Node",
-  "main": "createRequest.js",
-  "scripts": {
-    "test": "node test.js",
-    "prepublishOnly": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://git.farfrom.earth/aero/forks/centra.git"
-  },
-  "keywords": [
-    "http",
-    "https",
-    "request",
-    "fetch",
-    "url",
-    "lightweight"
-  ],
-  "author": "Ethan Davis (https://ethanent.me)",
-  "license": "MIT",
-  "devDependencies": {
-    "retra": "^1.0.2",
-    "whew": "^1.1.3"
-  }
+	"name": "centra-aero",
+	"version": "2.3.0",
+	"description": "Fork of centra to support only what aero needs.",
+	"main": "createRequest.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://git.farfrom.earth/aero/forks/centra.git"
+	},
+	"author": "Ethan Davis (https://ethanent.me)",
+	"contributors": [
+		"Ravy <ravy@aero.bot> (https://ravy.xyz)"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"eslint-config-raven": "^1.0.2"
+	}
 }

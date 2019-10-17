@@ -1,5 +1,3 @@
-const CentraRequest = require('./model/CentraRequest.js')
+const CentraRequest = require('./lib/CentraRequest');
 
-module.exports = (url, method) => {
-	return new CentraRequest(url, method)
-}
+module.exports = (url, method) => new CentraRequest(url, method);
