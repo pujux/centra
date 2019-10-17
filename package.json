@@ -8,8 +8,5 @@
 		"url": "git+https://git.farfrom.earth/aero/forks/centra.git"
 	},
 	"author": "Ravy <ravy@aero.bot> (https://ravy.xyz)",
-	"license": "BSD-3-Clause",
-	"dependencies": {
-		"eslint-config-raven": "^1.0.2"
-	}
+	"license": "BSD-3-Clause"
 }
