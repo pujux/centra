@@ -1,6 +1,6 @@
 # Centra
 
-**Fork of a fork** of centra to support Request#method, and remove unneeded clutter.
+**Fork of a fork** of centra because of personal preferences.
 
 Original by Ethan Davis: https://github.com/ethanent/centra
 First Fork by Ravy: https://git.farfrom.earth/aero/forks/centra
