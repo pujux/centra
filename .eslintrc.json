@@ -1,11 +1,7 @@
 {
-	"extends": ["@aero", "eslint:recommended"],
-	"globals": {
-		"Atomics": "readonly",
-		"SharedArrayBuffer": "readonly"
-	},
+	"extends": "@aero",
 	"rules": {
-		"semi": 0,
-		"indent": ["error", "tab"]
+		"no-prototype-builtins": "off",
+		"semi": 0
 	}
 }

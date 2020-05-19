@@ -4,7 +4,7 @@
 	"description": "Fork of centra to support only what aero needs.",
 	"main": "index.js",
 	"scripts": {
-    "lint": "eslint '*.js'"
+		"lint": "eslint '**/*.js'"
 	},
 	"repository": {
 		"type": "git",
