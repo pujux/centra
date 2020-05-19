@@ -1,7 +1,6 @@
-# Centra-Aero
+# @Aero/Centra
 
-Fork of centra to support Request#method, and remove unneeded clutter.
+**Fork of a fork** of centra because of personal preferences.
 
-`npm i @aero/centra`
-
-Original by Ethan Davis: https://github.com/ethanent/centra
+Original by Ethan Davis: https://github.com/ethanent/centra <br>
+First Fork by Ravy: https://git.farfrom.earth/aero/forks/centra
